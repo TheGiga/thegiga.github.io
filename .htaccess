@@ -1,8 +1,0 @@
-ErrorDocument 401 default
-ErrorDocument 403 default
-ErrorDocument 404 https://0880.xyz/404
-ErrorDocument 405 default
-ErrorDocument 406 default
-ErrorDocument 500 default
-ErrorDocument 501 default
-ErrorDocument 503 default
