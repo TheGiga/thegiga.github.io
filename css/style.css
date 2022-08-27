@@ -1,0 +1,35 @@
+body {
+    background-color: #242424;
+    height: 100%;
+    color: #ffffff;
+    font-family: monospace;
+}
+
+.content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title {
+    font-size: 6vw;
+    color: #e5e5e5;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.links {
+    color: darkgray;
+    font-size: 15px;
+}
+
+.footer {
+    position: absolute;
+    left: 50%;
+    top: 99%;
+    transform: translate(-50%, -99%);
+}
